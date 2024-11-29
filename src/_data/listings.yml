@@ -1,0 +1,18 @@
+- title: Oceania 2
+  img: https://image.tmdb.org/t/p/w92/dPnRomNzww9G7dgS84f6HSevVLc.jpg
+  dates: Dal 27 Novembre al 3 Dicembre
+  times:
+    - "17:00"
+    - "19:00"
+
+- title: Il ragazzo dai pantaloni rosa
+  img: https://image.tmdb.org/t/p/w92/3VeelVwaq576BcJ9rYKqhN1Plq2.jpg
+  dates: Dal 29 Novembre al 2 Dicembre
+  times:
+    - "21:00"
+
+- title: Napoli-New York
+  img: https://image.tmdb.org/t/p/w92/5mhyooqkRWPJBKynfM8n8GKsjgp.jpg
+  dates: Dal 5 al 9 Dicembre
+  times:
+    - "21:00"
