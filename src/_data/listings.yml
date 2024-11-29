@@ -22,3 +22,10 @@
   dates: Dal 20 al 29 Dicembre
   times:
     - "21:00"
+
+- title: "Mustafa"
+  img: https://image.tmdb.org/t/p/w92/eZS2taWdadP8lh22xJOVrWT0lTn.jpg
+  dates: Dal 3 al 9 Gennaio
+  times:
+    - "17:00"
+    - "19:00"
