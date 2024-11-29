@@ -6,7 +6,7 @@
   <body class="<%= data.layout %> <%= data.page_class %>">
     <%= render Shared::Navbar.new(metadata: site.metadata, resource: resource) %>
 
-    <main class="main container mx-auto mt-8 px-3 flex">
+    <main class="main container mx-auto mt-3 mb-3 px-3 flex">
       <%= yield %>
     </main>
 
